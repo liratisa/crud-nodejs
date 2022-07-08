@@ -19,4 +19,6 @@ Instale os pacotes necessários, digitando o comando a seguir no terminal ou Pow
 Depois de instalar, digite um dos comandos:
 
 > npm start
+
+
 > npx nodemon server.js
